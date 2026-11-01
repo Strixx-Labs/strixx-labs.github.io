@@ -1,0 +1,20 @@
+{
+  "slug": "freshlist",
+  "name": "FreshList",
+  "visible": true,
+  "status": "dev",
+  "emoji": "🥬",
+  "color": "#3F8F5A",
+  "package": "com.strixxlabs.freshlist",
+  "play_url": "",
+  "tagline": "La lista de la compra de temporada y con comida de verdad.",
+  "description": "Una lista de la compra compartida que te ayuda a comprar productos de temporada y poco procesados. Catálogo de alimentos con calendario de temporada para España y clasificación por grado de procesamiento (NOVA).",
+  "features": [
+    "Catálogo de alimentos con su temporada en España",
+    "Filtros por temporada y por grado de procesamiento (NOVA)",
+    "Listas compartidas con tu familia mediante un código",
+    "Historial y productos frecuentes",
+    "Widget en la pantalla de inicio",
+    "Funciona sin conexión y sin crear cuenta"
+  ]
+}

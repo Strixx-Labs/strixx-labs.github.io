@@ -1,0 +1,13 @@
+{
+  "slug": "homedesk",
+  "name": "HomeDesk Remote",
+  "visible": false,
+  "status": "dev",
+  "emoji": "🖥️",
+  "color": "#46637A",
+  "package": "com.strixxlabs.homedesk",
+  "play_url": "",
+  "tagline": "Tu PC de casa, a un botón.",
+  "description": "Comprueba que todo está listo y te conecta al escritorio de tu PC de casa usando Tailscale y Moonlight.",
+  "features": []
+}

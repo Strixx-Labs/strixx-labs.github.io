@@ -1,0 +1,20 @@
+{
+  "slug": "wakeup",
+  "name": "WakeUp",
+  "visible": true,
+  "status": "dev",
+  "emoji": "⏰",
+  "color": "#C9822B",
+  "package": "com.strixxlabs.wakeup",
+  "play_url": "",
+  "tagline": "Despertar poco a poco, no de golpe.",
+  "description": "Un despertador con modos pensados para despertar mejor: avisos cortos en oleadas antes de la hora o un sonido que sube de volumen poco a poco. Incluye un modo de concentración tranquila.",
+  "features": [
+    "Modo clásico con posponer y apagado manteniendo pulsado",
+    "Modo oleadas: avisos breves antes de la hora que se apagan solos",
+    "Modo progresivo: el volumen sube suavemente hasta la hora fijada",
+    "Repetición por días y reprogramación tras reiniciar el móvil",
+    "Modo nocturno",
+    "Sin conexión a internet: nada sale de tu móvil"
+  ]
+}

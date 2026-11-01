@@ -1,0 +1,20 @@
+{
+  "slug": "ximitask",
+  "name": "XimiTask",
+  "visible": true,
+  "status": "dev",
+  "emoji": "🧹",
+  "color": "#5E7D6A",
+  "package": "com.strixxlabs.ximitask",
+  "play_url": "",
+  "tagline": "Las tareas de casa, repartidas y sin discusiones.",
+  "description": "Organiza la limpieza y el orden del hogar por habitaciones, reparte las tareas con turnos rotativos y lleva los gastos compartidos y el bote común. Con una Roomba como mascota que refleja cómo va la casa.",
+  "features": [
+    "Tareas por habitación con frecuencia automática: se reprograman solas al completarlas",
+    "Turnos rotativos entre miembros y vacaciones que reparten la carga",
+    "Gastos compartidos, reparto desigual, liquidaciones y bote común",
+    "Calendario, estadísticas y resumen diario",
+    "Hogar compartido opcional entre los móviles de casa con un código de invitación",
+    "Funciona sin conexión y sin crear cuenta"
+  ]
+}

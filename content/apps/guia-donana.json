@@ -1,0 +1,13 @@
+{
+  "slug": "guia-donana",
+  "name": "Guía Doñana",
+  "visible": false,
+  "status": "dev",
+  "emoji": "🦩",
+  "color": "#8C5E04",
+  "package": "com.strixxlabs.guiadonana",
+  "play_url": "",
+  "tagline": "La naturaleza de Doñana, mes a mes.",
+  "description": "Guía de campo por épocas: qué fauna y qué eventos naturales se pueden observar en Doñana en cada momento del año.",
+  "features": []
+}
