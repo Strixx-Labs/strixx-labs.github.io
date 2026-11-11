@@ -57,6 +57,7 @@ def page(path: str, title: str, body: str, description: str = "") -> None:
 <meta property="og:description" content="{desc}">
 <meta property="og:image" content="{site['url']}/img/strixlabs-512.png">
 <meta name="theme-color" content="#1B2230">
+<meta name="google-site-verification" content="VdZbnSt8xa-206U2efZutXiNdN9Z1ACiyEzxmSXBOd8">
 <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
 <link rel="canonical" href="{site['url']}{path}">
 <link rel="stylesheet" href="/css/style.css">
